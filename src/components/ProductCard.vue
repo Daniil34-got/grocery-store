@@ -1,3 +1,4 @@
+
 <script setup>
 import {useProductStore} from "@/stores/ProductStore.js"
 import {computed, ref} from "vue";
